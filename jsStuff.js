@@ -1,14 +1,18 @@
 console.log("HelloWorld");
-let number = 25;
-let newString= "ISko";
+
+let myNum=5;
+let myNum1=5;
+
+let sum =myNum*myNum1;
+
+//alert(sum);
+//console.log(sum);
+
+let arr = [1,2,34,5];
 
 
-let arr=[];
-function myFunction(a,b) {
-    let sum = a*b
-}
-
-
-
-Console.log( myFunction(5,2) );
+arr.forEach(element => {
+    console.log(element);
+    
+});
 
