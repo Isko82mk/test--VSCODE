@@ -10,4 +10,8 @@ let sum =myNum*myNum1;
 
 let arr = [1,2,34,5];
 
+let firstNumber = arr.shift();
+
+console.log(firstNumber);
+console.log(arr);
 
