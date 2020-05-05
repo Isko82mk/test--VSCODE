@@ -11,11 +11,3 @@ let sum =myNum*myNum1;
 let arr = [1,2,34,5];
 
 
-// arr.forEach(element => {
-//     console.log(element);
-    
-// });
-
-let myShiftedNumbers = arr.shift();
-console.log(myShiftedNumbers);
-console.log(arr);
